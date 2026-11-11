@@ -1,13 +1,16 @@
 <div align="center">
+  <!-- Hiệu ứng gõ chữ -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%90%B7%2C+I'm+Brian+Bui;Cybersecurity+%26+Linux+Enthusiast;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
   </a>
-</div>
+
+  <br/><br/>
+
   <!-- Badges Liên kết Social -->
   <a href="mailto:your-email@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://gitlab.com/your-username">
+  <a href="https://gitlab.com/bquangthien25-hub">
     <img src="https://img.shields.io/badge/GITLAB-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
   </a>
   <a href="https://x.com/your-username">
@@ -22,7 +25,7 @@
 
 <br/>
 
-<!-- Layout 2 cột: Bên trái là chữ & danh sách, bên phải là GIF minh họa -->
+<!-- Layout 2 cột -->
 <table border="0">
   <tr>
     <td width="60%" valign="top">
@@ -30,7 +33,7 @@
       <ul>
         <li>🌱 I am learning Computer Science & Cybersecurity</li>
         <li>🔗 My bio: <a href="#">linktr.ee/yourname</a></li>
-        <li>💼 My projects: <a href="https://github.com/your-username">GitHub</a></li>
+        <li>💼 My projects: <a href="https://github.com/bquangthien25-hub">GitHub</a></li>
         <li>📫 How to reach me: <b>your-email@gmail.com</b></li>
         <li>⚡ Fun fact: I tend to learn more every day</li>
       </ul>
@@ -42,7 +45,6 @@
       </ul>
     </td>
     <td width="40%" align="center" valign="middle">
-      <!-- Ảnh GIF minh họa góc phải -->
       <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%" />
     </td>
   </tr>
@@ -52,7 +54,6 @@
 
 ### 🛠️ Tech Stack & Tools
 
-<!-- Bảng hiển thị các Skill Icons với SkillIcons API -->
 | Category | Skills / Tools |
 | :--- | :--- |
 | 🚀 **Languages & Core** | <img src="https://skillicons.dev/icons?i=py,ts,js,java,cpp,php,swift,matlab,latex" /> |
@@ -72,35 +73,15 @@
 <div align="center">
 
   ### 🔥 Streak Contribution
-  <!-- Thống kê Streak Contribution -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bquangthien25-hub&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
   <br/><br/>
 
- name: Generate Snake Animation
+  ### 🐍 Snake Contribution
+  <img src="https://raw.githubusercontent.com/bquangthien25-hub/bquangthien25-hub/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 
-on:
-  schedule:
-    # Tự động chạy lại mỗi 24 tiếng
-    - cron: "0 0 * * *" 
-  workflow_dispatch:
+  <br/><br/>
 
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+  *Always open to sharing ideas, collaborating, or consulting on projects. If anything here catches your eye, reach out!*
 
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+</div>
