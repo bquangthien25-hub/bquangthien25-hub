@@ -56,7 +56,7 @@
 
 | Category | Skills / Tools |
 | :--- | :--- |
-| 🚀 **Languages & Core** | <img src="https://skillicons.dev/icons?i=py,cpp,c,java,bash" /> |
+| 🚀 **Languages & Core** | <img src="https://skillicons.dev/icons?i=py,cpp,c,bash" /> |
 | 🛡️ **Cybersecurity & SIEM** | <img src="https://img.shields.io/badge/Wazuh-000000?style=for-the-badge&logo=wazuh&logoColor=00A3E0" height="40" /> <img src="https://skillicons.dev/icons?i=elasticsearch,kali,linux" /> |
 | 🖥️ **Virtualization & Hypervisors** | <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" height="40" /> <img src="https://img.shields.io/badge/VMware-607D8B?style=for-the-badge&logo=vmware&logoColor=white" height="40" /> <img src="https://img.shields.io/badge/KVM-FF6600?style=for-the-badge&logo=linux&logoColor=white" height="40" /> <img src="https://skillicons.dev/icons?i=docker" /> |
 | 🌐 **Networking & Security Tools** | <img src="https://skillicons.dev/icons?i=wireshark,postman,bash" /> |
