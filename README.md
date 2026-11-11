@@ -31,7 +31,7 @@
     <td width="60%" valign="top">
       <p><b>Cybersecurity Student | Web & Software Development</b></p>
       <ul>
-        <li>🌱 I am learning Computer Science & Cybersecurity</li>
+        <li>🌱 I am learning Cybersecurity</li>
         <li>🔗 My bio: <a href="#">linktr.ee/yourname</a></li>
         <li>💼 My projects: <a href="https://github.com/bquangthien25-hub">GitHub</a></li>
         <li>📫 How to reach me: <b>your-email@gmail.com</b></li>
