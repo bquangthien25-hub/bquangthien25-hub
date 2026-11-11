@@ -1,6 +1,7 @@
 <div align="center">
+  <!-- Hiệu ứng gõ chữ SVG mở rộng khung width lên 750 -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=2000&color=F7F7F7&center=true&vCenter=true&width=550&lines=Hi+%F0%9F%90%B7%2C+I'm+Brian+Bui;Cybersecurity+%26+Linux+Enthusiast;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=2000&color=F7F7F7&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%90%B7%2C+I'm+Brian+Bui;Cybersecurity+%26+Linux+Enthusiast;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
   </a>
 </div>
   <br/><br/>
