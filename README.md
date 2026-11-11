@@ -41,7 +41,7 @@
         <li>🚀 Developer of <b><a href="https://github.com/bquangthien25-hub">GlideDock</a></b> — a smooth macOS-style dock extension for GNOME.</li>
         <li>🏆 Active CTF player & contestant in national cybersecurity competitions (<b>CSCV 2026</b>, <b>ASCIS</b>).</li>
         <li>📫 How to reach me: <b><a href="mailto:bquangthien25@gmail.com">bquangthien25@gmail.com</a></b></li>
-        <li>🌐 Socials: <a href="https://www.facebook.com/quangthien.bui.9809">Facebook</a> | <a href="https://www.instagram.com/quangthien.brianbui/">Instagram</a></li>
+        <li>🌐 Socials: <a href="https://www.facebook.com/quangthien.bui.9809" target="_blank">Facebook</a> | <a href="https://www.instagram.com/quangthien.brianbui/" target="_blank">Instagram</a></li>
       </ul>
       <br/>
       <h4>🏆 Highlights & Achievements</h4>
@@ -52,7 +52,7 @@
       </ul>
     </td>
     <td width="37%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/qgQUGG4dbv5BLAHxmX/giphy.gif" width="100%" style="border-radius: 10px;" alt="Coding Animation" />
+      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" style="border-radius: 10px;" alt="Coding Animation" />
     </td>
   </tr>
 </table>
