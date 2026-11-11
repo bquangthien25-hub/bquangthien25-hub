@@ -77,8 +77,7 @@
 
   <br/><br/>
 
-  ### 🐍 Snake Contribution
-  name: Generate Snake Animation
+ name: Generate Snake Animation
 
 on:
   schedule:
@@ -88,6 +87,8 @@ on:
 
 jobs:
   generate:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
     steps:
       - uses: Platane/snk@v3
@@ -103,11 +104,3 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-  <!-- Hiệu ứng rắn ăn ô đóng góp (Snake Eating Graph) -->
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-
-  <br/><br/>
-
-  *Always open to sharing ideas, collaborating, or consulting on projects. If anything here catches your eye, reach out!*
-
-</div>
