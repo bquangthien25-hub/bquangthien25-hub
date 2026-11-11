@@ -28,17 +28,17 @@
 
 <br/>
 
-<!-- Layout 2 cột: Bio chi tiết & Ảnh Firefly cá nhân -->
+<!-- Layout 2 cột: Bio chi tiết & Ảnh Firefly -->
 <table border="0">
   <tr>
     <td width="60%" valign="top">
       <h3>👨‍💻 About Me</h3>
-      <p><b>Information Security Student  | Cybersecurity & Systems Enthusiast</b></p>
+      <p><b>Information Security Student @ HUTECH | Cybersecurity & Systems Enthusiast</b></p>
       <ul>
         <li>🎓 Pursuing a Bachelor's degree in <b>Information Security</b>.</li>
         <li>🛡️ Focus areas: <b>SIEM & Log Analysis</b> (ELK Stack, Sysmon, Winlogbeat, Wazuh), <b>Network Security</b> & <b>Cryptography</b> (RSA, DES).</li>
         <li>🐧 Linux Power User: Customizing <b>Fedora Workstation</b>, shell scripting, and kernel optimization.</li>
-        <li>🚀 Developer of <b><a href="https://github.com/bquangthien25-hub">GlideDock</a></b> — a smooth macOS-style dock extension for GNOME.</li>
+        <li>🚀 Developer of <b><a href="https://github.com/bquangthien25-hub/GlideDock" target="_blank">GlideDock</a></b> — a smooth macOS-style dock extension for GNOME.</li>
         <li>🏆 Active CTF player & contestant in national cybersecurity competitions (<b>CSCV 2026</b>, <b>ASCIS</b>).</li>
         <li>📫 How to reach me: <b><a href="mailto:bquangthien25@gmail.com">bquangthien25@gmail.com</a></b></li>
         <li>🌐 Socials: <a href="https://www.facebook.com/quangthien.bui.9809" target="_blank">Facebook</a> | <a href="https://www.instagram.com/quangthien.brianbui/" target="_blank">Instagram</a></li>
@@ -52,7 +52,7 @@
       </ul>
     </td>
     <td width="40%" align="center" valign="middle">
-      <!-- Nhúng ảnh Firefly trực tiếp từ repo -->
+      <!-- Ảnh Firefly lấy trực tiếp từ repo -->
       <img src="./firefly.jpg" width="100%" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" alt="Firefly Honkai Star Rail" />
     </td>
   </tr>
