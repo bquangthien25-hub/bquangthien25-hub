@@ -1,6 +1,8 @@
 <div align="center">
-  <h1>Hi 👋, I'm [Tên Của Thầy]</h1>
-
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%90%B7%2C+I'm+Brian+Bui;Cybersecurity+%26+Linux+Enthusiast;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  </a>
+</div>
   <!-- Badges Liên kết Social -->
   <a href="mailto:your-email@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
