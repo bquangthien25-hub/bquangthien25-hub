@@ -58,14 +58,14 @@
 | :--- | :--- |
 | 🚀 **Languages & Core** | <img src="https://skillicons.dev/icons?i=py,cpp,c,java,bash" /> |
 | 🛡️ **Cybersecurity & SIEM** | <img src="https://skillicons.dev/icons?i=elasticsearch,linux,kali" /> |
+| 🌐 **Networking & Security Tools** | <img src="https://skillicons.dev/icons?i=wireshark,postman,bash,linux" /> |
 | ⚙️ **Runtime & Environment** | <img src="https://skillicons.dev/icons?i=nodejs,npm" /> |
 | 🗄️ **Databases & Storage** | <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" /> |
 | 📝 **Editors & IDEs** | <img src="https://skillicons.dev/icons?i=vscode,idea,vim" /> |
-| ⚙️ **DevOps & Servers** | <img src="https://skillicons.dev/icons?i=docker,nginx,postman" /> |
+| ⚙️ **DevOps & Servers** | <img src="https://skillicons.dev/icons?i=docker,nginx" /> |
 | 🌿 **Version Control** | <img src="https://skillicons.dev/icons?i=git,github,gitlab" /> |
 | 💻 **OS & Systems** | <img src="https://skillicons.dev/icons?i=fedora,linux,debian,kali,ubuntu" /> |
 | 🧠 **Productivity & Docs** | <img src="https://skillicons.dev/icons?i=stackoverflow,notion" /> |
-
 ---
 
 <div align="center">
