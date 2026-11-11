@@ -28,10 +28,10 @@
 
 <br/>
 
-<!-- Layout 2 cột: Bio chi tiết & Icon Minh Họa Chuẩn -->
+<!-- Layout 2 cột: Bio chi tiết & Ảnh Firefly cá nhân -->
 <table border="0">
   <tr>
-    <td width="65%" valign="top">
+    <td width="60%" valign="top">
       <h3>👨‍💻 About Me</h3>
       <p><b>Information Security Student @ HUTECH | Cybersecurity & Systems Enthusiast</b></p>
       <ul>
@@ -51,9 +51,9 @@
         <li>🛠️ <b>Lab Projects</b> — Local SIEM Environment deployment & FTPS secure transmission integration</li>
       </ul>
     </td>
-    <td width="35%" align="center" valign="middle">
-      <!-- Icon đống công nghệ Linux & Kali hiển thị 100% không lo lỗi link -->
-      <img src="https://skillicons.dev/icons?i=fedora,kali,linux,bash&theme=dark" width="90%" alt="Cybersecurity & Linux Icons" />
+    <td width="40%" align="center" valign="middle">
+      <!-- Nhúng ảnh Firefly trực tiếp từ repo -->
+      <img src="./firefly.jpg" width="100%" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" alt="Firefly Honkai Star Rail" />
     </td>
   </tr>
 </table>
