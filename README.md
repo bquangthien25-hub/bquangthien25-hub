@@ -33,7 +33,7 @@
   <tr>
     <td width="60%" valign="top">
       <h3>👨‍💻 About Me</h3>
-      <p><b>Information Security Student @ HUTECH | Cybersecurity & Systems Enthusiast</b></p>
+      <p><b>Information Security Student  | Cybersecurity & Systems Enthusiast</b></p>
       <ul>
         <li>🎓 Pursuing a Bachelor's degree in <b>Information Security</b>.</li>
         <li>🛡️ Focus areas: <b>SIEM & Log Analysis</b> (ELK Stack, Sysmon, Winlogbeat, Wazuh), <b>Network Security</b> & <b>Cryptography</b> (RSA, DES).</li>
