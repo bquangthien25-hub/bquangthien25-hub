@@ -40,8 +40,8 @@
       <br/>
       <h4>🏆 Achievements</h4>
       <ul>
-        <li>🥇 Winner at IT Hackathon 2024</li>
-        <li>🥇 Winner at ASEAN Student Contest on Information Security (ASCIS)</li>
+        <li> join at IT CodeWar 2024</li>
+        <li>  at ASEAN Student Contest on Information Security 2026 (ASCIS)</li>
       </ul>
     </td>
     <td width="40%" align="center" valign="middle">
@@ -56,17 +56,15 @@
 
 | Category | Skills / Tools |
 | :--- | :--- |
-| 🚀 **Languages & Core** | <img src="https://skillicons.dev/icons?i=py,ts,js,java,cpp,php,swift,matlab,latex" /> |
-| ⚛️ **Frameworks & Libs** | <img src="https://skillicons.dev/icons?i=nextjs,react,vue,nuxtjs,tailwind,laravel,codeigniter,fastapi,flutter" /> |
-| ⚙️ **Runtime & Build Tools** | <img src="https://skillicons.dev/icons?i=nodejs,vite,npm,webpack" /> |
-| 🗄️ **Databases & Storage** | <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,supabase,firebase" /> |
-| 📝 **Editors & IDEs** | <img src="https://skillicons.dev/icons?i=vscode,sublime,vim,androidstudio,arduino" /> |
-| ⚙️ **DevOps & Servers** | <img src="https://skillicons.dev/icons?i=docker,nginx,gcp,bash,postman" /> |
-| 🌿 **Version Control** | <img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket" /> |
-| ☁️ **Cloud & Hosting** | <img src="https://skillicons.dev/icons?i=vercel,netlify,render,wordpress" /> |
-| 💻 **OS & Systems** | <img src="https://skillicons.dev/icons?i=apple,windows,linux,debian,mint,kali" /> |
-| 🎨 **Design & Software** | <img src="https://skillicons.dev/icons?i=figma,pr,ps" /> |
-| 🧠 **AI & Productivity** | <img src="https://skillicons.dev/icons?i=tensorflow,stackoverflow,notion" /> |
+| 🚀 **Languages & Core** | <img src="https://skillicons.dev/icons?i=py,cpp,c,java,bash" /> |
+| 🛡️ **Cybersecurity & SIEM** | <img src="https://skillicons.dev/icons?i=elasticsearch,linux,kali" /> |
+| ⚙️ **Runtime & Environment** | <img src="https://skillicons.dev/icons?i=nodejs,npm" /> |
+| 🗄️ **Databases & Storage** | <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" /> |
+| 📝 **Editors & IDEs** | <img src="https://skillicons.dev/icons?i=vscode,idea,vim" /> |
+| ⚙️ **DevOps & Servers** | <img src="https://skillicons.dev/icons?i=docker,nginx,postman" /> |
+| 🌿 **Version Control** | <img src="https://skillicons.dev/icons?i=git,github,gitlab" /> |
+| 💻 **OS & Systems** | <img src="https://skillicons.dev/icons?i=fedora,linux,debian,kali,ubuntu" /> |
+| 🧠 **Productivity & Docs** | <img src="https://skillicons.dev/icons?i=stackoverflow,notion" /> |
 
 ---
 
