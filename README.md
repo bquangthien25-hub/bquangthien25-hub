@@ -4,19 +4,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=2000&color=F7F7F7&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%90%B7%2C+I'm+Brian+Bui;Cybersecurity+%26+Linux+Enthusiast;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
   </a>
 
-  <br/><br/>
-
-  <!-- Badges Liên kết Social -->
-  <a href="mailto:bquangthien25@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://gitlab.com/bquangthien25-hub" target="_blank">
-    <img src="https://img.shields.io/badge/GITLAB-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
-  </a>
-  <a href="https://github.com/bquangthien25-hub" target="_blank">
-    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-
   <h3 align="center">I am into Cybersecurity and Coding.</h3>
 </div>
 
@@ -27,15 +14,13 @@
   <tr>
     <td width="60%" valign="top">
       <h3>👨‍💻 About Me</h3>
-      <p><b>Information Security Student  | Cybersecurity & Systems Enthusiast</b></p>
+      <p><b>Information Security Student @ HUTECH | Cybersecurity & Systems Enthusiast</b></p>
       <ul>
         <li>🎓 Pursuing a Bachelor's degree in <b>Information Security</b>.</li>
         <li>🛡️ Focus areas: <b>SIEM & Log Analysis</b> (ELK Stack, Sysmon, Winlogbeat, Wazuh), <b>Network Security</b> & <b>Cryptography</b> (RSA, DES).</li>
         <li>🐧 Linux Power User: Customizing <b>Fedora Workstation</b>, shell scripting, and kernel optimization.</li>
         <li>🚀 Developer of <b><a href="https://github.com/bquangthien25-hub/GlideDock" target="_blank">GlideDock</a></b> — a smooth macOS-style dock extension for GNOME.</li>
         <li>🏆 Active CTF player & contestant in national cybersecurity competitions (<b>CSCV 2026</b>, <b>ASCIS</b>).</li>
-        <li>📫 How to reach me: <b><a href="mailto:bquangthien25@gmail.com">bquangthien25@gmail.com</a></b></li>
-        
       </ul>
       <br/>
       <h4>🏆 Highlights & Achievements</h4>
@@ -58,7 +43,7 @@
 
 | Category | Skills / Tools |
 | :--- | :--- |
-| 🚀 **Languages & Core** | <img src="https://skillicons.dev/icons?i=py,cpp,c,bash" /> |
+| 🚀 **Languages & Core** | <img src="https://skillicons.dev/icons?i=py,cpp,c,java,bash" /> |
 | 🛡️ **Cybersecurity & SIEM** | <img src="https://img.shields.io/badge/Wazuh-000000?style=for-the-badge&logo=wazuh&logoColor=00A3E0" height="40" /> <img src="https://skillicons.dev/icons?i=elasticsearch,kali,linux" /> |
 | 🖥️ **Virtualization & Hypervisors** | <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" height="40" /> <img src="https://img.shields.io/badge/VMware-607D8B?style=for-the-badge&logo=vmware&logoColor=white" height="40" /> <img src="https://img.shields.io/badge/KVM-FF6600?style=for-the-badge&logo=linux&logoColor=white" height="40" /> <img src="https://skillicons.dev/icons?i=docker" /> |
 | 🌐 **Networking & Security Tools** | <img src="https://skillicons.dev/icons?i=wireshark,postman,bash" /> |
