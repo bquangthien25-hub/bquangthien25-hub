@@ -35,7 +35,7 @@
         <li>🚀 Developer of <b><a href="https://github.com/bquangthien25-hub/GlideDock" target="_blank">GlideDock</a></b> — a smooth macOS-style dock extension for GNOME.</li>
         <li>🏆 Active CTF player & contestant in national cybersecurity competitions (<b>CSCV 2026</b>, <b>ASCIS</b>).</li>
         <li>📫 How to reach me: <b><a href="mailto:bquangthien25@gmail.com">bquangthien25@gmail.com</a></b></li>
-        <li>🌐 Socials: <a href="https://www.facebook.com/quangthien.bui.9809" target="_blank">Facebook</a> | <a href="https://www.instagram.com/quangthien.brianbui/" target="_blank">Instagram</a></li>
+        
       </ul>
       <br/>
       <h4>🏆 Highlights & Achievements</h4>
